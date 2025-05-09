@@ -10,8 +10,8 @@ Whether it’s sorting waste with image recognition or connecting APIs to visual
 
 Always curious. Always coding.
 
-gmail: hyojaegim109@gmail.com
-notion[https://www.notion.so/1d53f01293d8802581b1ff463d03a3ea]
+- gmail: hyojaegim109@gmail.com
+- [notion](https://www.notion.so/1d53f01293d8802581b1ff463d03a3ea)
 ---
 
 ## 🙋‍♂️ 안녕하세요!
