@@ -10,7 +10,7 @@ Whether it’s sorting waste with image recognition or connecting APIs to visual
 
 Always curious. Always coding.
 
-- [gmail](hyojaegim109@gmail.com)
+- gmail: hyojaegim109@gmail.com
 - [notion](https://www.notion.so/1d53f01293d8802581b1ff463d03a3ea)
 ---
 
@@ -23,5 +23,5 @@ Always curious. Always coding.
 
 환경, 데이터, 앱 개발 등 **작지만 실제로 도움이 되는 실용적인 프로젝트**들을 만들어가고 있습니다. 
 
-- [gmail](hyojaegim109@gmail.com)
+- gmail: hyojaegim109@gmail.com
 - [notion](https://www.notion.so/1d53f01293d8802581b1ff463d03a3ea)
